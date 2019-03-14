@@ -1,0 +1,35 @@
+body{
+    border: solid; border-bottom: hidden;
+    border-width: 50px;
+    border-color: rgb(186, 122, 247);
+    box-sizing: border-box;
+    /* background: url("./homework_6/background.jpg"); */
+    background-color: aqua;
+}
+#header{
+    height: 40px; width: 500px;
+    background-color:aqua; font-size: 28px;
+    margin-top: 40px; margin-left: 20%;
+    padding:10px; border-radius: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    border: solid; border-color:rgb(186, 122, 247); 
+}
+.thing{
+    background-color: rgb(186, 122, 247);
+    color: white;
+    padding: 5px;margin: 10px;
+    font-size: 16px;
+    border: navy;border-radius: 10px;
+
+}
+#submit{
+    margin:10px;
+}
+#add-button{
+    background-color: rgb(186, 122, 247);
+    color: white;
+    padding: 5px;margin: 10px;
+    font-size: 16px;
+    border: navy;border-radius: 10px;
+}
